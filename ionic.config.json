@@ -1,0 +1,7 @@
+{
+  "name": "criptografiaTeste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
